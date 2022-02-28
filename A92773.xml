@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's timely warning-piece, or, The wonderfull prophecies of Bishop Usher, Mr. William Lilly, Dr. Partridge and Dr. Gadbury predicting great and strange alterations to befall this climate of England very shortly : with the judgment of Mr. Lilly concerning that great and three-fold conjunction of Saturn and Jupiter this year 1682 ... / written by James Seal ; licensed according to order.</title>
+            <author>Seal, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92773</idno>
+            <idno type="STC">Wing S2172A</idno>
+            <idno type="STC">ESTC R42305</idno>
+            <idno type="EEBO-CITATION">36272834</idno>
+            <idno type="OCLC">ocm 36272834</idno>
+            <idno type="VID">150271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150271)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2238:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's timely warning-piece, or, The wonderfull prophecies of Bishop Usher, Mr. William Lilly, Dr. Partridge and Dr. Gadbury predicting great and strange alterations to befall this climate of England very shortly : with the judgment of Mr. Lilly concerning that great and three-fold conjunction of Saturn and Jupiter this year 1682 ... / written by James Seal ; licensed according to order.</title>
+                  <author>Seal, James.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by H.B. for James Seal, &amp; sold by J. Conyers ...,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text enclosed in mourning border.</note>
+                  <note>Reproduction of original in the Guildhall (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Prophecies.</term>
+               <term>Europe --  History --  17th century --  Prophecies.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:150271:1" rendition="simple:additions"/>
+            <head>ENGLANDS Timely Warning-piece.</head>
+            <head>Or, The wonderfull Prophecies of <hi>Bishop Uſher,</hi> Mr. <hi>William Lilly, Dr. Partridge,</hi> and Dr. <hi>Gadbury,</hi> Predicting great and ſtrange Alterations to befall this Climate of <hi>England</hi> very ſhortly; with the Judgment of Mr. <hi>Lilly</hi> concerning that great and three-fold Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> this year 1682, and concerning the late Comet, the wonderful Flaming ſword, the great Floods, the two Eclipſes of the Moon on the <hi>11th</hi> of <hi>February</hi> paſt the other on the <hi>8th</hi> of <hi>Auguſt,</hi> of the barbarous cruelties in <hi>France,</hi> of the Blazing ſtar ſeen lately in <hi>Germany,</hi> and of ſeveral ſtrange wonders as Mr. <hi>Lilly</hi> writ of ſeveral years ago.</head>
+            <head>Theſe things being found in his ſtudy ſince his Deceaſe.</head>
+            <byline>
+               <hi>Written by</hi> James Seal, <hi>Licenſed according to Order.</hi>
+            </byline>
+            <p>
+               <figure>
+                  <head>☞ greate Wonders and Strange Prodigyes: Are the Foreruners of greate Calamatyes: Thearefore Repent and to god Pray: That hee May Turne his Wrath Away</head>
+               </figure>
+            </p>
+            <div type="to_the_reader">
+               <p>CHriſtian Reader, whoſoever thou art that readeth theſe ſtrange Wonders, let me intreat thee to take Notice by them, and to remember they are the Beacons of the Almighty, which are ſet on fire to forewarn us of approaching danger; theſe remarkable Signs Thouſands can teſtifie the truth of them, and I hope there is none that heareth or readeth them but will take Notice by it.</p>
+            </div>
+            <div type="document">
+               <head>A New Table of ſeveral ſtrange Signs and Wonders.</head>
+               <p>THe firſt was of an unuſual Prodigy of three Suns that was ſeen in moſt part of <hi>England,</hi> being ſeen in the Firmament to get the upper-hand of each other, and in a ſmall time they vaniſhed; this is called by Phyloſophers a <hi>Parilly,</hi> which after the laſt three Suns as was ſeen, was a little before Queen. <hi>Mary</hi> be<g ref="char:EOLhyphen"/>gan her bloody Reign, and in the late Wars in 44, not ſince untill on the <hi>23d</hi> of <hi>January</hi> 1681.</p>
+               <p>The ſecond wonderful Sign as was ſeen, was on the <hi>4th</hi> of <hi>December</hi> 1681, of a ſiery flaming Sword that was ſeen in ſeveral parts in the <hi>Weſt</hi> of <hi>England,</hi> and in <hi>South-Wales,</hi> in <hi>Carmarthen,</hi> and in the County of <hi>Cornwall,</hi> and in other parts beyond the Seas, as many Seamen can teſtifie; This flaming Sword pointing to the Earth, and ſometimes it ſhow'd as if it moved and ſhaked towards the Earth, until the Clouds inter<g ref="char:EOLhyphen"/>poſed between that and us as hindered them from the ſight of it; it continued for half an hour viſible, and <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen vaniſhed quite away: 'tis obſerved that the like <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rodigy was ſeen before <hi>Jeruſalem</hi> was deſtroyed, where there hapened ſuch a Famine in the Land, but <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpecially in the City of <hi>Jeruſalem,</hi> that the women was forc'd to eat their own Children, as you may read at large in the Hiſtory of <hi>Ioſephus</hi>
+               </p>
+               <p>The third ſtrange Prodigy, is of two Armies that was ſeen to engage againſt each other in the Firmament over the City of <hi>Exeter</hi> in <hi>Devonſhire</hi> on the <hi>27th</hi> of <hi>December</hi> 1680, the one Army coming from the <hi>North</hi> of Heaven and the other from the <hi>South,</hi> they conti<g ref="char:EOLhyphen"/>nued for ſome two houres viſible fighting, the North Army was worſted, and there were heard the noiſe of wounded men as they ſuppoſed in the Ayr after the Battel was ended. This is obſerved the like Prodigy was ſeen before the breaking out of the late Rebellion, and not ſince, till now, which from the like Good Lord deliver us.</p>
+               <p>Fourthly, Since the laſt Armies was ſeen in the Ayr, we have an Account from <hi>France</hi> of the barbarous cruelties as is acted by thoſe cruel and unmercifull Pa<g ref="char:EOLhyphen"/>piſts on the poor Proteſtants in <hi>France,</hi> where they have invented new ways of torments: As by putting their feet into ſcalding Water, and by wedging their Fingers into Auger-holes, and by burning their Tongues with Red-hot Irons, and alſo of their bar<g ref="char:EOLhyphen"/>barous cruelties to ſeveral women, but eſpecially to a Proteſtant Lady living in <hi>Paris</hi> the chief City in <hi>France,</hi> whom thoſe Jeſuits and Fryers ſolicited to renounce her Faith, and to relaps from her Religion, to which ſhe replyed unto them, <hi>As ſhe had lived in the Proteſtant Faith, ſo was ſhe reſolved to die in the ſame:</hi> No ſooner had ſhe ſpoke thoſe words, but thoſe cruel Papiſts (being only Pretenders to Religion) fell a beating, ſtriking, kicking, and treading on her body, inſomuch that the Child fell from her body alive, which they flung about the ſtreet till they had mur<g ref="char:EOLhyphen"/>thered the ſame, ſo thoſe poor Proteſtants are ſerved in <hi>France</hi> for profeſſing the true Proteſtant Religion, which from ſuch-like cruelties good Lord deliver us, and all that truſt in him.</p>
+               <p>
+                  <hi>6ly.</hi> In <hi>January</hi> laſt 1681, we have an Account from <hi>Flanders, Holland,</hi> and <hi>Zealand</hi> of a very great and un<g ref="char:EOLhyphen"/>uſual Inundations of the Sea, which by the ſlightneſs of the Banks as they had there, which was nothing but Wood knock'd in with Stakes very ſlightly, the water broke them down, and ran into the Country a vaſt great way, drowned many thouſands of Cattel, and their Hay and Corn was drove away, and many thou<g ref="char:EOLhyphen"/>ſands loſt their lives before they could fly for ſuccor, it coming ſo ſwift upon them as there was nothing to be ſeen but the tops of Churches; <hi>Flanders</hi> being low and <hi>Zealand</hi> together, and was firſt gotten out of the Sea, they thought they ſhould never get their Country again: It being nothing but what is teſtifyed by ſeveral Seamen, and others.</p>
+               <p>
+                  <hi>7ly.</hi> A great Earthquake lately hapned at <hi>Stow Mar<g ref="char:EOLhyphen"/>ket</hi> in <hi>Suffolk</hi> which was accompanied with ſuch claps of Thunder and Lightning and a ſtorm of hail, that ſome of them were 5 or 6 inches in circumference, and ſome as big as Turkey eggs, which has deſtroyed much Corn and other things that 40000 l. will not repair it.</p>
+               <p>
+                  <hi>8ly,</hi> Concerning the late Comet which appeared to us in <hi>December,</hi> 1681, it appeared to us in <hi>England,</hi> in <hi>Capricorn</hi> near unto the body of the Sun, being of a very great ſwiftneſs moving four Degrees in 24 houres and leſſned its Motion towards the end to one Degree and fifty five Minutes in twenty four houres, its ſtream at firſt appears pointed a little to the <hi>North,</hi> afterwards <hi>Eaſtward;</hi> ſo having no more to ſay of it, but to refer you to large Writers, as Mr. <hi>Lilly's</hi> An<g ref="char:EOLhyphen"/>glicus for this Year 1682, where is a large Note of its Motion from the beginning to the end, only I will tell you as it was a Saturnine Comet, ſo I dare ſay it will have Saturnine and diſmall Effects; from which good Lord deliver us.</p>
+               <p>
+                  <hi>9ly.</hi> Something concerning the Conjunction of the two Superiors <hi>Saturn</hi> and <hi>Iupiter,</hi> which (according to the Tables of Mr. <hi>Thomas Street)</hi> will be celebrated on the <hi>23d</hi> of <hi>October</hi> 1682 in a fiery Trygon in and about twenty Degrees of <hi>Leo</hi> the aſcendant of <hi>Rome,</hi> and it hath alwaies been attended with memorial Changes both in Church and State; This being the <hi>8th</hi> time of their meeting in the fiery Trygon ſince the Creation of the World, and was attended alwaies with great Prodigies in the Heaven, and Alteration on Earth, and it will have great ſignification to thoſe places that have <hi>Leo</hi> for their horoſcope. I would ſpeak more of it, but I have not room here to inſert it, only Ile tell you it fignyfieth no ill to <hi>England,</hi> in regard it falls in Trine to <hi>Aries, Englands</hi> Aſcendant, but violent and raging Diſcaſes muſt be expect<g ref="char:EOLhyphen"/>ed, from which Good Lord de<g ref="char:EOLhyphen"/>liver us.</p>
+               <p n="10">10. Thoſe two great Eclipſes of the Moon, the firſt being on the <hi>11th</hi> of <hi>February</hi> and was totall and almoſt cen<g ref="char:EOLhyphen"/>teral, and the ſecond will hap<g ref="char:EOLhyphen"/>en on the <hi>8th</hi> of <hi>Auguſt,</hi> at five houres 55 mi<g ref="char:EOLhyphen"/>nutes, <hi>mane,</hi> but inviſible to us: This threatens the Earth (with her Inhabitants) either with the Plague, or ſome very great Mor<g ref="char:EOLhyphen"/>tality, with dear<g ref="char:EOLhyphen"/>neſs of Corn; It denotes the ruin of ancient build<g ref="char:EOLhyphen"/>ings, and diviſi<g ref="char:EOLhyphen"/>on and hatred a<g ref="char:EOLhyphen"/>mongſt the Pro<g ref="char:EOLhyphen"/>feſſors of Reli<g ref="char:EOLhyphen"/>gion, high winds and Tempeſt at Sea, and very dangerous Sayl<g ref="char:EOLhyphen"/>ing: It denotes the deſtruction of Fiſhes, and over-flowing of Rivers, and hath a very bad ſignification, according to the fa<g ref="char:EOLhyphen"/>mous Mr. <hi>Lilly</hi> in his <hi>Merlini Anglici.</hi>
+                  <q>
+                     <l>
+                        <hi>This Moneth the two Superiors are enjoyn'd,</hi>
+                     </l>
+                     <l>
+                        <hi>And in the fiery Trygon are combin'd:</hi>
+                     </l>
+                     <l>
+                        <hi>They'r meeting ſtill, great Changes doth foreſhow,</hi>
+                     </l>
+                     <l>
+                        <hi>To hapen in the</hi> Regions <hi>here below.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Mr. <hi>Lilly</hi> in his <hi>Ephemeris</hi> in 1655, hath theſe Pro<g ref="char:EOLhyphen"/>phetical Expreſſions, which are now very near their Period, and doth in a prophetical manner predict his own Death.</p>
+               <q>
+                  <l>
+                     <hi>In the Year of eighty three, great changes there will be,</hi>
+                  </l>
+                  <l>
+                     <hi>That thou poor</hi> Merlin <hi>ne'r ſhalt live to ſee.</hi>
+                  </l>
+               </q>
+               <p>Alſo Mr. <hi>Gadbury</hi> and Mr. <hi>Partridge</hi> have written very dubiouſly and ſtrange, as may be ſeen in their An<g ref="char:EOLhyphen"/>nual Books this year 1682.</p>
+               <p>Mr. <hi>Partridge</hi> writeth concerning the French Kings death and hath given his Judgment at large, as may be ſeen in his <hi>Mercurius Coeleſtis,</hi> 1682.</p>
+               <p>Alſo Mr. <hi>Gadbury</hi> in the latter end of his <hi>Dyary</hi> or <hi>Almanack</hi> for this year 1682, hath theſe Miſtick Verſes</p>
+               <q>
+                  <lg>
+                     <l>Geneva <hi>Jiggs ſhall diſagree,</hi>
+                     </l>
+                     <l>
+                        <hi>And days turn'd into weeks ſhall be,</hi>
+                     </l>
+                     <l>
+                        <hi>So into months and years at laſt,</hi>
+                     </l>
+                     <l>
+                        <hi>Juſt Judges ſhall their madneſs caſt.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Comets are d<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eadful Objects to mens eyes,</l>
+                     <l>God's angry warning, heavenly Rarities</l>
+                     <l>That ſtill proclaim Gods wrath, and Kingdoms woe,</l>
+                     <l>Plagues, or great Sickneſs, bloody Wars alſo;</l>
+                  </lg>
+               </q>
+               <p>According to Mr. <hi>Lilly</hi> in his Anual books.</p>
+               <p>Alſo the Right Reverend <hi>Biſhop <g ref="char:V">Ʋ</g>ſher</hi> did prophecy of ſeveral ſtrange Events, which ſome have came to paſs &amp; ſome have not, he prophecyed of the Maſſacre in <hi>Ireland,</hi> &amp; ſeveral years before it came to paſs, and alſo of the death of King <hi>Charles</hi> the Firſt, and of ano<g ref="char:EOLhyphen"/>ther Maſſacree here in <hi>England</hi> now by the Papiſts.</p>
+               <q>
+                  <l>God hath not made Coeleſtial works in vain,</l>
+                  <l>But in them power and vertue great remain,</l>
+                  <l>They cauſe effects on Earth, by them we know</l>
+                  <l>That God is working Changes here below.</l>
+               </q>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London, Printed by</hi> H. B. <hi>for</hi> James Seal, &amp; <hi>ſold by</hi> J. Conyers <hi>in Ducklane</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
